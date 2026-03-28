@@ -1,6 +1,10 @@
 Derivative Licence Permission
 Estrogen Source-Available Licence (ESAL)
 
+Permission ID
+-------------
+ESAL-DP-2026-001
+
 Author
 ------
 Clove Nytrix Doughmination Twilight

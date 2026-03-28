@@ -48,6 +48,16 @@ Revocation
 Clove Nytrix Doughmination Twilight reserves the right to revoke this
 permission at any time.
 
+Modification
+----------
+Clove Nytrix Doughmination Twilight reserves the right to modify this
+permission at any time, provided the Authorised Party is made aware of
+any and all modifications
+
 Date Granted
 ------------
 26 March 2026
+
+Dates Modified
+----------
+28 March 2026 - Clarify Scope and add in modification notice

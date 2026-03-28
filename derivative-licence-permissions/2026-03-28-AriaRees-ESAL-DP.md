@@ -48,7 +48,7 @@ Conditions
 Scope
 -----
 This permission applies solely to the creation and use of a derivative
-licence for projects controlled or operated by The Starlit Court. This
+licence for projects controlled or operated by Aria Rees. This
 permission is applied to version 1.4 of ESAL, or later, unless explicitly
 updated at a later date
 
@@ -69,4 +69,4 @@ Date Granted
 
 Dates Modified
 ----------
-None as thus far
+28 March 2026 - Modified to make fully correct, as old reference was still in the agreement

@@ -39,7 +39,9 @@ Conditions
 Scope
 -----
 This permission applies solely to the creation and use of a derivative
-licence for projects controlled or operated by The Starlit Court.
+licence for projects controlled or operated by The Starlit Court. This
+permission is applied to version 1.4 of ESAL, or later, unless explicitly
+updated at a later date
 
 Revocation
 ----------
